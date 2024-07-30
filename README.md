@@ -16,11 +16,3 @@ Data Source
 -----
 the United States Geological Survey - All Earthquakes past 30 Days
 https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson
-
-Usage
------
-
-1. Include the Leaflet library in your HTML file:
-```html
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
-<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
